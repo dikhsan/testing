@@ -1,6 +1,6 @@
 # Penggunaan Git sehari-hari #
 
-## Istilah ##
+## Istilah x##
 
 * working folder : folder tempat file-file kita berada
 * Staging area : wilayah (virtual) untuk perubahan yang akan dicommit
