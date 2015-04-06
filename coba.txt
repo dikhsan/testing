@@ -17,5 +17,5 @@
    * --graph : menampilkan setiap perubahan"
 * output :
     ...
-    C:\Users\HP\git
- 
+    C:\Users\HP\git>git log --graph
+	 
