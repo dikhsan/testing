@@ -10,3 +10,22 @@
 * Perintah : `git init <nama-folder>`
 * Contoh : git init blog-endy
 * Hasil : membuat folder baru
+
+## Melihat isi stagin area ##
+
+* Perintah : `git diff --staged`
+
+# Melihat History Perubahan
+
+* Perintah : `git log`
+* Opsi : 
+	* `--online` : menampilkan satu commit per baris (lebih ringkas)
+	* `--graph` : menampilkan rantai perubahan
+	
+* output :
+	......
+	* ba2c211 commit kedua
+	* 77619c2 commit pertama
+	
+	
+	
