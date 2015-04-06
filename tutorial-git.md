@@ -25,7 +25,7 @@
 * output :
 	......
 	* ba2c211 commit kedua
-	* 77619c2 commit pertama hahhaha
+	* 77619c2 commit pertama
 	
 	
 	
